@@ -90,28 +90,27 @@ router.get('/', async (req, res) => {
                         text: `
 *SESSION GENERATED SUCCESSFULY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-AI
+*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟https://github.com/PRINCETECH19/PRINCE-XMD
 
 *Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
-https://t.me/Tohid_Tech
+https://t.me/PRINCE_Tech
 
 *WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
-https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
+https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 
 *WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-https://youtube.com/Tohidkhan_6332
+
 
 *ɢɪᴛʜᴜʙ* 🌟
-http://GitHub.com/Tohidkhan6332
+https://github.com/PRINCETECH19/PRINCE-XMD
 
 *Wᴇʙsɪᴛᴇ* 🌟
-https://tohid-khan-web.vercel.app/
+/
 
-*TOHID-AI--WHATTSAPP-BOT* 🥀
+*PRINCE XMD--WHATTSAPP-BOT* 🥀
 ` 
                     });
 
